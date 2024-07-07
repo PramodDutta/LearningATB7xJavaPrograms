@@ -1,2 +1,5 @@
-package ex_07062024;public class Lab006 {
+package ex_07062024;
+
+public class Lab006 {
+
 }
