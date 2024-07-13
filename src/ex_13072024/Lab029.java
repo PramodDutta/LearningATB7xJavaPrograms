@@ -9,6 +9,7 @@ public class Lab029 {
         double sub  = a-b;
         double mul  = a*b;
         double div  = a/b;
+//        double div  = a/b;
         System.out.printf("Sum is %f\n",sum);
 
         System.out.printf("Sub is %f\n",sub);
