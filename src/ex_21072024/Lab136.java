@@ -1,5 +1,7 @@
 package ex_21072024;
 
+import java.util.Scanner;
+
 public class Lab136 {
     public static void main(String[] args) {
         // Functions
@@ -32,8 +34,9 @@ public class Lab136 {
 
         System.out.println( " --------------- ");
 
-
-        int sum_result = function_type4(4,5);
+        Scanner sc = new Scanner(System.in);
+        int a = sc.nextInt();
+        int sum_result = function_type4(a,5);
         System.out.println("O/P -> "+sum_result);
 
 
