@@ -7,7 +7,7 @@ public class Lab105 {
         if ( ch == 'a' || ch == 'e' || ch =='o' || ch == 'i' || ch == 'u'){
             System.out.println("Vowel");
         }else{
-            System.out.println("Consonent");
+            System.out.println("Consonant");
         }
 
     }
