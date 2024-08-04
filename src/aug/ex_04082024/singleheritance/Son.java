@@ -1,6 +1,7 @@
 package aug.ex_04082024.singleheritance;
 
-public class Son extends Father{
+// Sub Class
+public class Son  extends Father{
     // IS A - RELATIONSHIP
 
     void bhk3() {
