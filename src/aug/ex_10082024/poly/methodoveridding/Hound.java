@@ -7,4 +7,8 @@ public class Hound extends Dog {
         System.out.println("I am Hound, i will Bark!!");
     }
 
+    void bike(){
+        System.out.println("Biked");
+    }
+
 }
