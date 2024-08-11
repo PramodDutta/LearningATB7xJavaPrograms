@@ -7,7 +7,7 @@ abstract class BaseClass extends GrandBaseClass {
 
     abstract String openBrowser(String browser);
     abstract String closeBrowser(String browser);
-
+    BaseClass(){}
 
     @Override
     void takeScreenShot() {

@@ -4,7 +4,7 @@ public class FIREFOX extends BaseClass {
     @Override
     String openBrowser(String browser) {
         System.out.println("Open the FIREFOX .....,         // This is code releted to FIREFOX only\n");
-        return "";
+        return browser;
     }
 
     @Override
