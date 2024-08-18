@@ -1,8 +1,4 @@
-package aug.ex_18042024;
-
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
+package aug.ex_18082024;
 
 public class Lab222 {
     public static void main(String[] args) throws Exception {

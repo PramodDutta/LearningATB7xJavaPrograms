@@ -1,4 +1,4 @@
-package aug.ex_18042024;
+package aug.ex_18082024;
 
 public class Lab225 {
     public static void main(String[] args) {
