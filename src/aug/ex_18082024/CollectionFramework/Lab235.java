@@ -6,9 +6,12 @@ import java.util.Vector;
 
 public class Lab235 {
     public static void main(String[] args) {
-        List mylist1 = new ArrayList(); // FR - CO
+        List mylist1 = new ArrayList(5); // FR - CO
         mylist1.add("Pramod");
         mylist1.add("Anusha");
+        mylist1.add("Kiran");
+        mylist1.add("Kiran");
+        mylist1.add("Kiran");
         mylist1.add("Kiran");
         System.out.println(mylist1);
 
